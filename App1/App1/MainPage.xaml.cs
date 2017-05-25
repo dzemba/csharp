@@ -25,6 +25,9 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
+
+            //wszystkie waluty NBP
+            //http://api.nbp.pl/api/exchangerates/tables/a/
         }
     }
 }
